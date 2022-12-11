@@ -5,8 +5,6 @@ I am a FrontEnd developer, I love cryptography.
 My favourite language is javascript.
 
 ### CORE SKILLS AND EXPERTIZE
-![Python](https://img.shields.io/badge/python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=gold)
-![Django](https://img.shields.io/badge/django-%234ea94b.svg?style=for-the-badge&logo=django&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,7 +12,6 @@ My favourite language is javascript.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### LEARNING
 🤗 C <br/>
@@ -49,4 +46,5 @@ My favourite language is javascript.
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=CDevelopEF&langs_count=15&theme=tokyonight)]()
 
 <br>
+
 ![Profile views](https://gpvc.arturio.dev/CDevelopEF)
