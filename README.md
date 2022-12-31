@@ -1,7 +1,7 @@
 # Hello 👋🏾, I’m Ernesto
 
 
-I am a FrontEnd developer, I love cryptography.
+I am a Fullstack developer, I love cryptography.
 My favourite language is javascript.
 
 ### CORE SKILLS AND EXPERTIZE
