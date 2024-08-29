@@ -19,7 +19,8 @@ My favourite language is javascript.
 🤗 React <br/>
 🤗 Angular <br/>
 🤗 Typescript <br/>
-😌 Express <br/>
+😌 NestJS <br/>
+💎 Ruby on Rails <br/>
 
 ### More
 
