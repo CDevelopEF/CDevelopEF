@@ -13,7 +13,7 @@ My favourite language is javascript.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%231572B6.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-### LEARNING
+### SKILLS
 🤗 React <br/>
 🤗 AngularJS Legacy / Angular 10+ <br/>
 🤗 Typescript <br/>
