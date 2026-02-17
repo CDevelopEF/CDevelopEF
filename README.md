@@ -14,19 +14,17 @@ My favourite language is javascript.
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ### LEARNING
-🤗 C <br/>
-🤗 C++ <br/>
 🤗 React <br/>
-🤗 Angular <br/>
+🤗 AngularJS Legacy / Angular 10+ <br/>
 🤗 Typescript <br/>
-😌 NestJS <br/>
+😌 Ruby <br/>
 💎 Ruby on Rails <br/>
 
 ### More
 
 - 👀 Hi, I’m @CDevelopEF
 - 🌱 I’m interested in web programming, as a fullstack developer
-- 💞️ I am currently learning Angular and reinforcing my knowledge in Javascript
+- 💞️ I am currently working on Angular and RoR
 - 🤗 I'm looking to collaborate on a project that helps me improve myself and increase my skills in web programming
 - 📫 How to reach me 
   - Mail: ✉ ernestopiz866@gmail.com 
